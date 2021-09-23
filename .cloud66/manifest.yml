@@ -1,0 +1,4 @@
+prepress:
+  configuration:
+    framework: "jekyll"
+    language: "ruby"
